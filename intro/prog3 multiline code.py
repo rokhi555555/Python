@@ -1,0 +1,1 @@
+print(''' My name is ali . i am from gova, here we are in case of a trip .hope you will be happy .not soda not sad etc''')
